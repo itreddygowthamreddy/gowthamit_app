@@ -1,9 +1,9 @@
 HELP.md
 target/
-db.yml
-mvcn
-mvncw.cmd
-.mvn
+db.yml/
+mvcn/
+mvncw.cmd/
+.mvn/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
