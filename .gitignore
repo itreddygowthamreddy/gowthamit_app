@@ -1,2 +1,5 @@
+.mvn
+mvnw.cmd
+pom.xml
 db.yml
-target/
+
