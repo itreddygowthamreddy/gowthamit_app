@@ -14,3 +14,5 @@ public interface UserRepository extends JpaRepository<User,Integer> {
     @Query("update User set actionSW=:status where sno=:sno")
     public void userActionStatus(Integer sno, String status);
 }
+
+// adding comment to repository class
